@@ -33,7 +33,7 @@ const API_SITES = {
     },
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
-        name: '暴风资源',
+        name: '暴风gd资源',
     },
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
